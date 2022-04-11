@@ -1,7 +1,8 @@
 # Rasa 3.0 Demo : Rock-Paper-Scissors
 
-Train Rasa models
-`rasa train`
+`rasa train` Train Rasa models
 
-Play "Rock Paper Scissors" in terminal
-`rasa shell`
+
+`rasa shell` Play "Rock Paper Scissors" in terminal
+
+## Redo demo at https://youtu.be/PfYBXidENlg
