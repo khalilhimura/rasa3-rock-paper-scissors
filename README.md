@@ -8,6 +8,10 @@
 
 `rasa run actions` Start Rasa Action Server
 
+`rasa run` Start Rasa server
+
 `rasa shell` Play "Rock Paper Scissors" in terminal
 
 ## Redo demo at https://youtu.be/PfYBXidENlg
+
+If working from localhost, run ngrok to get an online address for Telegram webhook URL in credentials file
