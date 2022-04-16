@@ -131,3 +131,7 @@ dmypy.json
 # Rasa stuff
 .rasa
 /models/*.tar.gz
+
+# Secret stuff
+secret.txt
+credentials.yml
